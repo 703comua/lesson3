@@ -1,0 +1,7 @@
+CLI - command line interpreter
+
+PHP-FPM:9000
+
+Nginx:80
+
+MySQL:3306
